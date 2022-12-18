@@ -1,6 +1,6 @@
 # Timi(Maintained)
 Timi is a fun Neko Bot!
-Using Nekos.best api
+Using Nekos.best api.
 
 <HTML>
 <BODY>
